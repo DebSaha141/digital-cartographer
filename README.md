@@ -3,6 +3,7 @@
 **PathFindr** is an open-source, cross-platform mapping and navigation toolkit designed to simplify real-time route planning, geospatial analysis, and location-aware app development. Whether you're building a delivery tracker, a hiking companion, or an emergency response system, PathFindr empowers developers with a robust suite of features wrapped in an intuitive API.
 
 
+
 ---
 
 ## 🌍 Overview
