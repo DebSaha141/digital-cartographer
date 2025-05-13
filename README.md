@@ -2,7 +2,7 @@
 
 **Digital Cartographer** is an open-source, cross-platform mapping and geospatial intelligence toolkit designed to simplify real-time route planning, location analysis, and map-based app development. Whether you're creating a delivery tracker, urban planning tool, or a disaster response dashboard, Digital Cartographer provides you with a robust and flexible API built for the modern world.
 
-![Digital Cartographer Banner](https://res.cloudinary.com/dzabseimd/image/upload/v<timestamp>/your_image_name.png)
+![Digital Cartographer Banner](https://res.cloudinary.com/dzabseimd/image/upload/v1747121544/campus_map_nwvs9w.png)
 
 ---
 
